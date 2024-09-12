@@ -4,32 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rx9oyltHwM5YDVybP82y-1" value="Login" style="rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="100" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rx9oyltHwM5YDVybP82y-2" value="Verificar credenciais" style="rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="100" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rx9oyltHwM5YDVybP82y-3" value="Acesso autorizado?" style="diamond;" vertex="1" parent="1">
-          <mxGeometry x="450" y="100" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="rx9oyltHwM5YDVybP82y-4" value="Página Principal" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="100" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rx9oyltHwM5YDVybP82y-5" value="Retornar erro" style="rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="200" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rx9oyltHwM5YDVybP82y-6" edge="1" parent="1" source="rx9oyltHwM5YDVybP82y-1" target="rx9oyltHwM5YDVybP82y-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rx9oyltHwM5YDVybP82y-7" edge="1" parent="1" source="rx9oyltHwM5YDVybP82y-2" target="rx9oyltHwM5YDVybP82y-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rx9oyltHwM5YDVybP82y-8" edge="1" parent="1" source="rx9oyltHwM5YDVybP82y-3" target="rx9oyltHwM5YDVybP82y-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rx9oyltHwM5YDVybP82y-9" edge="1" parent="1" source="rx9oyltHwM5YDVybP82y-3" target="rx9oyltHwM5YDVybP82y-5">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
